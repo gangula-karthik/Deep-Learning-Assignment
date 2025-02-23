@@ -1,6 +1,5 @@
 # Deep Learning Assignment 🤖
 
-## 📌 Project Overview
 This project focuses on two deep learning tasks:
 - 1️⃣ Brain Tumor Classification using CNN and VGG16 fine-tuning. 🏥💡
 - 2️⃣ Sentiment Analysis on drug reviews & IMDB reviews using deep learning. 🏥🎬💬
